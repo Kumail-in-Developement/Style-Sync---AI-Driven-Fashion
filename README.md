@@ -14,8 +14,8 @@ This project was recognized for excellence in technical branding and system desi
 The system utilizes a custom AI pipeline to transform user prompts and base images into high-fidelity fashion renders.
 
 <p align="center">
-  <img src="assets/poster1.png" width="48%" alt="AI Workflow" />
-  <img src="assets/poster2.png" width="48%" alt="Project Overview" />
+  <img src="assets/poster2.png" width="40%" alt="AI Workflow" />
+  <img src="assets/poster1.png" width="40%" alt="Project Overview" />
 </p>
 
 ### 🔍 Technical Deep Dive & Methodology
