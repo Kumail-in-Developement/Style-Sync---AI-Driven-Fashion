@@ -22,15 +22,27 @@ The system utilizes a custom AI pipeline to transform user prompts and base imag
 > **Deep Dive into Architecture:** The section below contains the full technical methodology and GIKI-recognized board. Click to expand and see the Stable Diffusion & GAN-based pipeline.
 
 
+
 <details>
-  <summary>
- <img src="https://img.shields.io/badge/-%20🚀%20OPEN%20TECHNICAL%20ARCHIVE%20&%20BOARD%20-6f42c1?style=for-the-badge&logo=postman&logoColor=white" />
+  <summary style="list-style: none; cursor: pointer;">
+    <!-- We link the image to # so it stays on the page instead of opening a new tab -->
+    <a href="#project-showcase--architecture">
+      <img src="https://img.shields.io/badge/-%20🚀%20OPEN%20TECHNICAL%20ARCHIVE%20%26%20BOARD%20-6f42c1?style=for-the-badge&logo=postman&logoColor=white" alt="Open Board Button" />
+    </a>
+    <br>
   </summary>
+  
   <br>
-  <p align="center">
-    <img src="assets/long-board.png" width="100%" alt="Full Technical Board" />
-  </p>
+  <div align="center">
+  
+  <img src="assets/long-board.png" width="80%" alt="Full Technical Board" />
+  </div>
+  <br>
+  <hr>
+  <p><b>StyleSync Architectural Roadmap</b></p>
 </details>
+
+
 
 
 ---
