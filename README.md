@@ -18,14 +18,20 @@ The system utilizes a custom AI pipeline to transform user prompts and base imag
   <img src="assets/poster1.png" width="40%" alt="Project Overview" />
 </p>
 
-### 🔍 Technical Deep Dive & Methodology
+> [!IMPORTANT]
+> **Deep Dive into Architecture:** The section below contains the full technical methodology and GIKI-recognized board. Click to expand and see the Stable Diffusion & GAN-based pipeline.
+
+
 <details>
-  <summary><b>📂 Click to view full Academic Board (Methodology & GIKI Presentation)</b></summary>
+  <summary>
+ <img src="https://img.shields.io/badge/-%20🚀%20OPEN%20TECHNICAL%20ARCHIVE%20&%20BOARD%20-6f42c1?style=for-the-badge&logo=postman&logoColor=white" />
+  </summary>
   <br>
   <p align="center">
     <img src="assets/long-board.png" width="100%" alt="Full Technical Board" />
   </p>
 </details>
+
 
 ---
 
