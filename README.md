@@ -1,4 +1,4 @@
-# Style-Sync---AI-Driven-Fashion
+# StyleSync - AI Driven Fashion
 AI-Driven E-Commerce &amp; Customisation Platform. GIK Institute Final Year Project Showcase.
 
 > **Note on Proprietary Status:** This project is currently being developed as a startup concept. While the source code is private, this repository serves as a technical showcase of the architecture, branding, and core AI methodology.
